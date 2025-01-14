@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\bin\Debug\net8.0\libraryApp.exe
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\bin\Debug\net8.0\libraryApp.deps.json
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\bin\Debug\net8.0\libraryApp.runtimeconfig.json
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\bin\Debug\net8.0\libraryApp.dll
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\bin\Debug\net8.0\libraryApp.pdb
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.sourcelink.json
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.dll
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\refint\libraryApp.dll
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.pdb
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\libraryApp.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\libraryApp\libraryApp\obj\Debug\net8.0\ref\libraryApp.dll
